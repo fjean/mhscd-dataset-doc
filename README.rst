@@ -13,8 +13,8 @@ Documents
 
 Links to latest revision of the documentation:
 
-* PDF format: `<mhscd-dataset-doc.pdf>`_
-* Text format: `<mhscd-dataset-doc.rst>`_
+* PDF format: `mhscd-dataset-doc.pdf <http://github.com/fjean/mhscd-dataset-doc/raw/master/mhscd-dataset-doc.pdf>`_
+* Text format: `mhscd-dataset-doc.rst <http://github.com/fjean/mhscd-dataset-doc/raw/master/mhscd-dataset-doc.rst>`_
 
 Dataset
 -------
