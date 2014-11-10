@@ -1,0 +1,8 @@
+*.directory
+*.aux
+*.log
+*.out
+*.tex
+*.toc
+
+
